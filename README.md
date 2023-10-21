@@ -6,9 +6,9 @@ Este repositório contém os desafios de projeto do Bootcamp Java com Angular, o
 
 Aqui está uma lista dos desafios de projeto disponíveis neste repositório:
 
-1. [Nome do Desafio 1: DesafioPokedex ](https://github.com/MatusMoura2/Bootcamp-Java-Angular-Santander/tree/main/DesafioPokedex): criação de uma pokedex com javascript.
-2. [Nome do Desafio 2:ContadorDioDesafio ](https://github.com/MatusMoura2/Bootcamp-Java-Angular-Santander/tree/main/ContadorDioDesafio): Um contador para o estudo de exeption.
-3. [Nome do Desafio 2:BlogComAngular](https://github.com/MatusMoura2/Bootcamp-Java-Angular-Santander/tree/main/ContadorDioDesafio): Front End de um Blog feito com Angular.
+1. [Desafio 1: DesafioPokedex ](https://github.com/MatusMoura2/Bootcamp-Java-Angular-Santander/tree/main/DesafioPokedex): criação de uma pokedex com javascript.
+2. [Desafio 2:ContadorDioDesafio ](https://github.com/MatusMoura2/Bootcamp-Java-Angular-Santander/tree/main/ContadorDioDesafio): Um contador para o estudo de exeption.
+3. [Desafio 3:BlogComAngular](https://github.com/MatusMoura2/Bootcamp-Java-Angular-Santander/tree/main/ContadorDioDesafio): Front End de um Blog feito com Angular.
 
 Cada desafio de projeto tem sua própria pasta no repositório, contendo arquivos e informações específicos do desafio.
 ## Como Contribuir
