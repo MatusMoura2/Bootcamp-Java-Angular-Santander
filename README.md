@@ -11,7 +11,7 @@ Aqui está uma lista dos desafios de projeto disponíveis neste repositório:
 3. [Desafio 3: BlogComAngular](https://github.com/MatusMoura2/Bootcamp-Java-Angular-Santander/tree/main/ContadorDioDesafio): Front End de um Blog feito com Angular.
 4. [Desafio 4: StoreComAngular](https://github.com/MatusMoura2/Bootcamp-Java-Angular-Santander/tree/main/storeDio): Confira outro projeto Angular.
 5. [Desafio 5: UML](https://github.com/MatusMoura2/Bootcamp-Java-Angular-Santander/tree/main/UML-Iphone): Projeto com UML Diagrama de classe.
-6. [Desafio 5: Padrões de projetos](https://github.com/MatusMoura2/Bootcamp-Java-Angular-Santander/tree/main/PadroesDeProjeto): Como os padrões de projeto ajudam a nossa vida!.
+6. [Desafio 6: Padrões de projetos](https://github.com/MatusMoura2/Bootcamp-Java-Angular-Santander/tree/main/PadroesDeProjeto): Como os padrões de projeto ajudam a nossa vida!.
 
 Cada desafio de projeto tem sua própria pasta no repositório, contendo arquivos e informações específicos do desafio.
 ## Como Contribuir
