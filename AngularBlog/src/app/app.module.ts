@@ -4,11 +4,13 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { BlogComponent } from './blog/blog.component';
+import { AutomaticTransmissionComponent } from './inventions/automatic-transmission/automatic-transmission.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    BlogComponent
+    BlogComponent,
+    AutomaticTransmissionComponent
   ],
   imports: [
     BrowserModule,
