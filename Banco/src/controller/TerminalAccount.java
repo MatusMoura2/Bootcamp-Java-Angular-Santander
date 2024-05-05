@@ -17,6 +17,12 @@ public class TerminalAccount {
 		if (validCpf(client.getCpf()) && initialValue >= 300) {
 			clients.add(client);
 			System.out.println("Parabéns"+ client.getName()+" sua conta foi criada com sucesso!");
+			
+		}else if(validCpf(client.getCpf()) == false){
+			System.out.println(client.getName()+" seu cpf é invalido");
+			
+		}else if(initialValue < 300) {
+			System.out.println(client.getName()+" não é possivel criar uma conta com o valor menor que 300.00 R$: ");
 		}
 	}
 	
